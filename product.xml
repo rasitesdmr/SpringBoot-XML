@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<products>
+    <product>
+        <Name>Casper Excalibur G770.1245-8VH0X-B</Name>
+        <Price>14.999</Price>
+        <İşlemciTipi>Intel Core i5</İşlemciTipi>
+        <SSDKapasitesi>500 GB</SSDKapasitesi> 
+        <Çözünürlük>1920 x 1080</Çözünürlük>
+        <EkranKartı>Nvidia GeForce GTX 1650</EkranKartı>
+        <EkranKartıTipi>Harici</EkranKartıTipi>
+        <İşlemciModeli>12450H</İşlemciModeli>
+        <İşlemciNesli>12.Nesil</İşlemciNesli>
+        <DokunmatikEkran>Yok</DokunmatikEkran> 
+        <ÇözünürlükStandartı>Full HD (FHD)</ÇözünürlükStandartı>
+        <GarantiTipi>Casper Türkiye Garantili</GarantiTipi>
+        <Bağlantılar>Bluetooth</Bağlantılar>
+        <Renk>Siyah</Renk>
+        <Ram>8 GB</Ram>  
+        <İşletimSistemi>Free Dos</İşletimSistemi>
+        <EkranYenilemeHızı>144 Hz</EkranYenilemeHızı>
+        <EkranBoyutu>15,6 inç</EkranBoyutu>
+        <CihazAğırlığı>2 - 4 kg</CihazAğırlığı>
+        <EkranKartıHafızası>4 GB</EkranKartıHafızası>
+        <İşlemciÇekirdekSayısı>8</İşlemciÇekirdekSayısı>
+        <GarantiSüresi>2 Yıl</GarantiSüresi>
+    </product>
+</products>
